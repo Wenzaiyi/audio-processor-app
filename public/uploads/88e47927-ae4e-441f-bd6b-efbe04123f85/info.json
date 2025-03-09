@@ -1,0 +1,18 @@
+{
+  "id": "88e47927-ae4e-441f-bd6b-efbe04123f85",
+  "originalName": "scy-2021-09-16-give-to-homeless.mp3",
+  "originalPath": "/uploads/88e47927-ae4e-441f-bd6b-efbe04123f85/original.mp3",
+  "size": 32931072,
+  "type": "audio/mpeg",
+  "uploadedAt": "2025-03-09T17:51:52.216Z",
+  "expiresAt": "2025-03-12T17:51:52.216Z",
+  "status": "uploaded",
+  "processingStatus": {
+    "humanVoiceSeparation": "completed",
+    "speakerDiarization": "completed",
+    "noiseReduction": "completed"
+  },
+  "humanVoiceSeparationProgress": 100,
+  "speakerDiarizationProgress": 100,
+  "noiseReductionProgress": 100
+}
